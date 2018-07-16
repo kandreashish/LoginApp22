@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "357287633591",
+    "firebase_url": "https://loginapp-553d8.firebaseio.com",
+    "project_id": "loginapp-553d8",
+    "storage_bucket": "loginapp-553d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357287633591:android:924db391fa5ebd68",
+        "android_client_info": {
+          "package_name": "com.example.ashishthelegend.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357287633591-1bsts3avspfi3o6b6rhbtq2ll86qc4s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGPIsJAshsH1Yk6-OmtTvomULr22Zlw9E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
